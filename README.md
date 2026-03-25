@@ -30,6 +30,3 @@ nome | preferencia | tipo_cliente
 
 Saída:
 nome | preferencia | tipo_cliente | mensagem
-
-Saída:
-nome | preferencia | tipo_cliente | mensagem
