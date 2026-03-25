@@ -1,6 +1,6 @@
 # ETL - Hotel Spa com OpenAI
 
-Este projeto implementa um pipeline ETL em Python que gera mensagens personalizadas para clientes de um hotel spa utilizando a API da OpenAI.
+Pipeline ETL em Python que extrai dados de clientes de um arquivo CSV, gera mensagens personalizadas utilizando a API da OpenAI com base nas preferências e tipo de cliente, e carrega os resultados em um novo arquivo CSV. O projeto demonstra a automação de comunicação personalizada por meio das etapas de Extract, Transform e Load.
 
 ## Estrutura do projeto
 
